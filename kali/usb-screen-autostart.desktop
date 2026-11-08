@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=USB Screen (ASUS MB168B)
+Comment=Automatically mirrors the screen when the MB168B is plugged in via USB
+Exec=/usr/local/bin/usb-screen watch mirror
+Terminal=false
+X-GNOME-Autostart-enabled=true
+OnlyShowIn=XFCE;GNOME;MATE;LXDE;LXQt;X-Cinnamon;KDE;
